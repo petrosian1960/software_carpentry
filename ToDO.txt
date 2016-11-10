@@ -5,4 +5,4 @@ Conversion functions needed
 - Hours to Minutes
 -Feet to Inches
 -Hello
--Have a nice long weekend!
+-Have a nice long weekend
